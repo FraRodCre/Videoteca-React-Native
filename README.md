@@ -8,7 +8,7 @@ Instalar dependencias:
 npm install
 ```
 
-## Arracar App
+## Arrancar App
 
 Ejecutar el siguiente comando para arrancar el servidor en modo desarrollo:
 
