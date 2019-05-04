@@ -1,0 +1,7 @@
+export const main = '#272727'
+export const white = 'white'
+export const black = 'black'
+export const error = 'red'
+export const label = '#333'
+export const content = '#6a737d'
+export const link = '#005cc5'
